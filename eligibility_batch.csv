@@ -1,0 +1,6 @@
+income_monthly,expenses_monthly,credit_score,hardship,disability,household_size,ami_annual,prior_delinquency_days,doc_completeness_score
+3000,1200,640,1,0,3,45000,0,0.9
+2200,1500,580,1,1,2,40000,45,0.7
+1800,1400,540,0,0,1,38000,90,0.4
+5000,1800,720,0,0,4,60000,0,1.0
+2600,1700,560,1,0,2,42000,60,0.5
